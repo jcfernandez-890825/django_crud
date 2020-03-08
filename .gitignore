@@ -1,0 +1,5 @@
+/venv/
+/.idea/
+/.env
+/gunicorn_start
+/staticfiles/
